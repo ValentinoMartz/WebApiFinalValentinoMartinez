@@ -3,7 +3,7 @@
     "IIS Express": {
       "commandName": "IISExpress",
       "launchBrowser": true,
-      "launchUrl": "api/humanresources",
+      "launchUrl": "api/department",
       "environmentVariables": {
         "ASPNETCORE_ENVIRONMENT": "Development"
       }
